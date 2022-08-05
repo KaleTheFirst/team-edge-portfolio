@@ -1,0 +1,17 @@
+body{
+    background-color: lightsalmon;
+}
+
+
+.fob a {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.fob a:hover {
+    color: white;
+    font-weight: 900;
+    font-size: 40px;
+    
+}
